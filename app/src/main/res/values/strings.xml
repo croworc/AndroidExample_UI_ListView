@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+
+    <array name="sports_array">
+        <item>Badminton</item>
+        <item>Tennis</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>QBittey</item>
+        <item>Table Tennis</item>
+        <item>Chess</item>
+        <item>Hockey</item>
+        <item>Quidditch</item>
+        <item>Skydiving</item>
+        <item>Popinjay</item>
+        <item>Beach volleyball</item>
+        <item>Cricket</item>
+        <item>Skateboarding</item>
+        <item>Windsurfing</item>
+        <item>Freestyle wrestling</item>
+        <item>Kickboxing</item>
+        <item>Paintball</item>
+        <item>Pool billiard</item>
+        <item>Rodeo</item>
+        <item>Miniature golf</item>
+        <item>Rope jumping</item>
+        <item>Water polo</item>
+    </array>
+
+</resources>

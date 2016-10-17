@@ -1,4 +1,4 @@
-#AndroidExample_UI_ListView
+# AndroidExample_UI_ListView
 
 `AndroidExample_UI_ListView` is a companion Android app for the **Udacity** course [Build < anything > in Android](https://www.udacity.com/course/how-to-create-anything-in-android--ud802).
 
@@ -17,7 +17,7 @@ highlights here.  :smile:
 This app just implements and demonstrates the bare-to-the-bones feature(s) as advertised,
 not much else.
 
-##Installation
+## Installation
 
 AndroidStudio project. No external dependencies.
 Clone or download as ZIP and import into AndroidStudio.
@@ -27,11 +27,11 @@ Has `minSdkVersion 15`, so runs on devices/emulators with Android version >= Ice
 Targets Android SDK version 24, so depending on your installation,
 you may be prompted to download that SDK version during build.
 
-##Usage
+## Usage
 
 Just tap/click on any row within the list of sports and a toast will be displayed, showing the clicked item's text.
 
-##Contributing
+## Contributing
 
 See: repo description - just a learning/demo app, nothing breathtakingly elaborate!
 But, if you really want to:
@@ -41,11 +41,11 @@ But, if you really want to:
   4. Push to the branch: `git push origin my-new-feature`
   5. Submit a pull request :D
 
-##History
+## History
 
 Version: 1
 
-##Credits
+## Credits
 
   - This sample is based on a **tutorial**, found [here](http://theopentutorials.com/tutorials/android/listview/android-creating-and-populating-listview-items-in-xml/).
   - **Google's** official **guide** for how to use the `ListView` widget can be found [here](https://developer.android.com/guide/topics/ui/layout/listview.html). Might be a bit too advanced for real beginners, though, as it uses the `content provider framework` to access the device's list of contacts.
@@ -53,7 +53,7 @@ Version: 1
   - And here's a link to a curated list of some of the [most popular open source widgets](https://github.com/wasabeef/awesome-android-ui).
   - And last but not least: The **template** for this **README.md** file comes from [zenorocha](https://gist.github.com/zenorocha/4526327).
 
-##License
+## License
 
 `MIT license`.
 See: [LICENSE.md](./LICENSE.md)
